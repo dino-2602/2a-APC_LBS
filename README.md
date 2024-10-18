@@ -14,9 +14,9 @@ Diese Anwendung ist die achte Übung vom Labor ITL12...<br>
 
 
 <div>•	Integration einer einfachen DB Anwendung am Client <div/>
-<div>o	Lokale oder Remote Datenbank<div/>
-<div>o	Einbindung in IntelliJ<div/>
-<div>o	https://www.jetbrains.com/help/idea/connecting-to-a-database.html#<div/>
+<div>•	Lokale oder Remote Datenbank<div/>
+<div>•	Einbindung in IntelliJ<div/>
+<div>•	https://www.jetbrains.com/help/idea/connecting-to-a-database.html#<div/>
 <div>•	Vorgang beim Einbinden von Daten aus der Datenbank dokumentieren<div/>
 <div>•	Sequenzielles Auslesen aller Datensätze aus einer Tabelle (Employee)<div/>
 
